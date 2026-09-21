@@ -14,8 +14,9 @@ pc-labo.online の「基本情報技術者試験問題に挑戦しよう！」�
 
 | フォルダ | 記事タイトル | 内容 |
 | --- | --- | --- |
-| [01_2no_hosu](./01_2no_hosu) | 基本情報技術者試験問題に挑戦しよう！（２の補数） | XORとビット反転による2の補数の求め方をコードで確認する |
-| [02_2bun_tansaku_gi](./02_2bun_tansaku_gi) | 基本情報技術者試験問題に挑戦しよう！「2分探索木」 | 木を組み立てて2分探索木の条件を満たすかをコードで判定する |
+| [01_2no_hosu](./01_2no_hosu) | [基本情報技術者試験問題に挑戦しよう！（２の補数）](https://pc-labo.online/2023/12/24/lets-try-fe-exam-questions-2no-hosu/) | XORとビット反転による2の補数の求め方をコードで確認する |
+| [02_2bun_tansaku_gi](./02_2bun_tansaku_gi) | [基本情報技術者試験問題に挑戦しよう！「2分探索木」](https://pc-labo.online/2023/12/28/lets-try-fe-exam-sample-a-05-binary-search-tree/) | 木を組み立てて2分探索木の条件を満たすかをコードで判定する |
+| [03_shinrichi](./03_shinrichi) | [基本情報技術者試験問題に挑戦しよう！「命題の真理値」](https://pc-labo.online/2023/12/26/lets-try-fe-exam-sample-a-03-shinrichi/) | P・Q・Rの全パターンを総当たりして条件を満たす真偽の組み合わせを確認する |
 
 ## 動作環境
 
